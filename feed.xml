@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ting Chang</title>
+    <description>Personal blog for Ting Chang. Currently taking the Web Development bootcamp at Lighthouse Labs. Hoping to establish myself in this field. 
+</description>
+    <link>https://github.com/</link>
+    <atom:link href="https://github.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 29 Nov 2014 15:58:21 -0800</pubDate>
+    <lastBuildDate>Sat, 29 Nov 2014 15:58:21 -0800</lastBuildDate>
+    <generator>Jekyll v2.5.2</generator>
+    
+      <item>
+        <title>Blogging for Ligthouse Labs</title>
+        <description>&lt;p&gt;Starting a new blog for Lighthouse Labs and my (hopefully) soon-to-launch web deb career. Fingers crossed!&lt;/p&gt;
+
+&lt;p&gt;This is built on Jekyll btw.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 29 Nov 2014 06:52:00 -0800</pubDate>
+        <link>https://github.com/lighthouse/2014/11/29/blogging-for-lighthouse-labs.html</link>
+        <guid isPermaLink="true">https://github.com/lighthouse/2014/11/29/blogging-for-lighthouse-labs.html</guid>
+        
+        
+        <category>lighthouse</category>
+        
+      </item>
+    
+  </channel>
+</rss>
